@@ -1,0 +1,1 @@
+my exercises on python crash course
